@@ -1,10 +1,6 @@
 export default {
-  /*
-   ** Headers of the page
-   ** Doc: https://vue-meta.nuxtjs.org/api/#metainfo-properties
-   */
   head: {
-    title: `[${process.env.APP_ENV}] QuebeCoronavirus Manage Utility`,
+    title: `QuebeCoronavirus Manage Utility`,
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },

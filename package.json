@@ -1,5 +1,5 @@
 {
-  "name": "quebeccoronavirus",
+  "name": "internal0001",
   "version": "1.0.0",
   "description": "",
   "author": "Nuxt.js Team",
@@ -14,5 +14,8 @@
   "dependencies": {
     "nuxt": "^2.15.0"
   },
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {
+    "@nuxtjs/google-analytics": "^2.4.0"
+  }
 }
